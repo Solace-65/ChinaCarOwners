@@ -78,3 +78,4 @@ Email Validation: The script only checks for format validity in email addresses 
 License
 This project is licensed under the MIT License.
 
+![pic](Screenshot2024-10-23 161900png)

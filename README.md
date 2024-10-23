@@ -75,8 +75,11 @@ merged_garbage_data.csv: This file contains all discarded columns and rows, incl
 Known Limitations
 Google Translate API: The accuracy of column header translations depends on Google Translate.
 Email Validation: The script only checks for format validity in email addresses and does not verify the existence of the email.
+
 License
 This project is licensed under the MIT License.
+
+This is a snippet of the clean csv
 
 ![pic](CleanData.png)
 
